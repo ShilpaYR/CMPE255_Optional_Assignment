@@ -1,0 +1,7 @@
+# GitHub Copilot Prompt
+Generate a monorepo .gitignore for Node + React + Vite + Socket.io:
+- node_modules, dist, build
+- .env, .env.local
+- .DS_Store
+- coverage
+- npm/yarn/pnpm logs
