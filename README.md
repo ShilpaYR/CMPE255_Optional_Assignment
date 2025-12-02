@@ -1,5 +1,4 @@
-# GitHub Copilot Prompt
-Write a student-friendly README for a Realtime Chat (Rooms) app built with:
+# Use GitHub Copilot Prompt to build a realtime chat app.
 - Backend: Node.js + Express + Socket.io (port 3001), CORS for http://localhost:5173
 - Frontend: React (Vite) + React Router (port 5173)
 Features:
@@ -15,7 +14,7 @@ Include:
 - Proof of Copilot usage section
 This repository contains a small Realtime Chat (Rooms) app with a Node/Express + Socket.io backend and a React (Vite) frontend.
 
-## What I built
+## What Github Copilot built
 - Backend: Node.js + Express + Socket.io handling rooms, nicknames, per-room message history (in-memory), typing indicators, and user join/leave events.
 - Frontend: React + Vite + React Router (basic client-side structure). A socket service is provided to connect to the backend.
 
