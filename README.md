@@ -1,3 +1,6 @@
+Youtube Link Assignment 1:https://youtu.be/Pv7lnIIhpPQ?si=wUwfuqnZH4OSbrk8
+Youtube Link Assignment 2:https://youtu.be/3jrL8hSebu8?si=4m2lyrpdhouX03eJ
+
 # Use GitHub Copilot Prompt to build a realtime chat app.
 - Backend: Node.js + Express + Socket.io (port 3001), CORS for http://localhost:5173
 - Frontend: React (Vite) + React Router (port 5173)
